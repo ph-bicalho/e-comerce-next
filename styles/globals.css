@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+img{
+  height: 400px;
+}
+.navbar{
+
+  justify-content: center;
+}
